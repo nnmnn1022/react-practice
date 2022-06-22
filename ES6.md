@@ -38,3 +38,14 @@ a || b (or 연산)
 
 ### 삼항 연산자 (Conditional operator / Ternamry operator)
 조건식 ? true 반환값 : flase 반환값
+
+## 함수
+### function
+function sum(a, b) {
+  return a + b;
+}
+
+### arrow function expression
+const multiply = (a, b) => {
+    reuturn a * b;
+}
