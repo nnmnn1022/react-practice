@@ -1,6 +1,3 @@
-# react-practice
-react 기초
-
 ### script 언어
 프로그램이 실행되는 런타임에 코드가 해석됨
 
