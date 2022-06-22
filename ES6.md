@@ -18,3 +18,23 @@ Javascript : 변수에 데이터가 대입되는 순간 결정 (동적 타이핑
 위 이슈로 ES6에서 새로 나온 것이 `let`, `const` 이다.
 let은 재할당이 가능하며, `const`는 재할당이 불가능
 상수에는 `const`를 쓰고, 재할당이 필요한 변수에는 `let`을 사용
+
+### 객체
+js의 객체는 키와 값으로 이루어진 형태
+dictionary, map, hashmap 같은 것과 비슷
+
+## 연산자
+
+### 일치 연산자 (Strict equality operators)
+a === b
+a가 b의 값과 자료형이 모두 같은지 확인
+
+a !=== b
+a가 b의 값과 자료형이 둘 중 하나가 다른지 확인
+
+### 이진 논리 연산자 (Binary logical operators)
+a && b (and 연산)
+a || b (or 연산)
+
+### 삼항 연산자 (Conditional operator / Ternamry operator)
+조건식 ? true 반환값 : flase 반환값
